@@ -17,7 +17,7 @@ https://www.mysql.com/
 https://dev.mysql.com/get/Downloads/MySQLInstaller/mysql-installer-community-8.0.18.0.msi
 
 # 安裝說明
-- 轉仔連結: https://jerrynest.io/windows-mysql-installer/
+- 轉載連結: https://jerrynest.io/windows-mysql-installer/
 
 開啟下載好的「mysql-installer-community」安裝程式，點選「Install MySQL Products」
 
